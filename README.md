@@ -109,6 +109,6 @@ Set up a dedicated **Incident Response Dashboard** for your SOC. This dashboard 
 - **Patterns** of repeated events across different systems (e.g., failed logins on multiple hosts).
 - **IP addresses** that repeatedly trigger different types of alerts.
 ### Trick:
-Create **shortcuts to saved searches** on your incident response dashboard, allowing analysts to quickly investigate certain behaviors without needing to manually retype search queries.
+Create **shortcuts to saved searches** on your incident response dashboard, allowing you to quickly investigate certain behaviors without needing to manually retype search queries.
 
 
